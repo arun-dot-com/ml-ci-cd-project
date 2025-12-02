@@ -1,0 +1,5 @@
+# requirements.txt
+
+pandas>=2.1.0
+scikit-learn>=1.3.0  # Included to represent a typical ML dependency
+pytest>=7.0.0        # Required for the CI pipeline tests
